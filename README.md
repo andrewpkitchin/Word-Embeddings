@@ -1,5 +1,5 @@
 
-Word Embeddings Reveal Widening Circles of Moral Concern Across the 19th and 20th Centuries
+<h1>Word Embeddings Reveal Widening Circles of Moral Concern Across the 19th and 20th Centuries</h1>
 
 In this repository we will demonstrate how to use the contempary word embedding models supported by the Gensim library and the historical word embedding models supported by the Histwords library to generate the data used in [link to paper]. 
 
