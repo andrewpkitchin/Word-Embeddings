@@ -13,7 +13,7 @@ We present our code in three jupiter note books:
 We calculate the cosine between each enitity and a group/average vector of the moarl standing words in the contempary models.
 
 <h2>historical_models_average_vectors.ipynb</h2>
-We calculate the cosine between each enitity and a group/average vector of the moarl standing words in the historical models.
+We calculate the cosine between each enitity and a group/average vector of the moarl standing words in the historical models. To use this notebook you will need to clone the Histwords github repository found here: https://github.com/williamleif/histwords as well as download the All English (1800s-1990s) pretrained models found here: https://nlp.stanford.edu/projects/histwords/.
 
 <h2>historical_models_word_counts.ipynb</h2>
-We calculate the word counts of each of our enitites and moarl standing words in the historical models.
+We calculate the word counts of each of our enitites and moarl standing words in the historical models. To use this notebook you will need to clone the Histwords github repository found here: https://github.com/williamleif/histwords as well as download the All English (1800s-1990s) pretrained models found here: https://nlp.stanford.edu/projects/histwords/.
