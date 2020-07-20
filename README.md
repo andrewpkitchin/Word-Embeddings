@@ -1,7 +1,7 @@
 
 <h1>Word Embeddings Reveal Growing Moral Concern Across the 19th and 20th Centuries</h1>
 
-<h2>Stefan Leach1, Andrew P. Kitchin, Robbie M. Sutton<h2>
+<h2>Stefan Leach1, Andrew P. Kitchin, Robbie M. Sutton</h2>
 
 In this repository we will demonstrate how to use the contempary word embedding models supported by the Gensim library and the historical word embedding models supported by the Histwords library to generate the data used in [link to paper]. 
 
