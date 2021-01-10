@@ -1,5 +1,5 @@
 
-<h1>Word Embeddings Reveal Growing Moral Concern Across the 19th and 20th Centuries</h1>
+<h1>Word embeddings indicate historical growth in moral concern for people, animals, and the environment</h1>
 
 <h2>Stefan Leach, Andrew P. Kitchin, and Robbie M. Sutton</h2>
 
