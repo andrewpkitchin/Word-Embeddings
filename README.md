@@ -1,5 +1,5 @@
 
-<h1>Word embeddings indicate historical growth in moral concern for people, animals, and the environment</h1>
+<h1>Word Embeddings Indicate Historical Growth in Moral Concern for People, Animals, and the Environment</h1>
 
 <h2>Stefan Leach, Andrew P. Kitchin, and Robbie M. Sutton</h2>
 
