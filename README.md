@@ -11,11 +11,8 @@ All English (1800s-1990s) pretrained models found here: https://nlp.stanford.edu
 
 We present our code in three jupiter notebooks:
 
-<h2>contempary_models_average_vectors.ipynb</h2>
-We calculate the cosine between each focal enitity and the average vector of the moarl words in the contempary models.
+<h2>calculating_cosines_contempary_models.ipynb</h2>
+We calculate the cosine similarity between each entity word and each moral concern word using the contempary models.
 
-<h2>historical_models_average_vectors.ipynb</h2>
-We calculate the cosine between each focal enitity and the average vector of the moarl words in the historical models. To use this notebook you will need to clone the Histwords github repository found here: https://github.com/williamleif/histwords as well as download the All English (1800s-1990s) pretrained models found here: https://nlp.stanford.edu/projects/histwords/.
-
-<h2>historical_models_word_counts.ipynb</h2>
-We calculate the word counts of each of our focal enitites and control entities in the historical models. To use this notebook you will need to clone the Histwords github repository found here: https://github.com/williamleif/histwords as well as download the All English (1800s-1990s) pretrained models found here: https://nlp.stanford.edu/projects/histwords/.
+<h2>calculating_cosines_historic_models.ipynb</h2>
+We calculate the the cosine similarity between each entity word and each moral concern word using the historical models. To use this notebook you will need to clone the Histwords github repository found here: https://github.com/williamleif/histwords as well as download the All English (1800s-1990s) pretrained models found here: https://nlp.stanford.edu/projects/histwords/.
