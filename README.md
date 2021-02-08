@@ -9,7 +9,7 @@ See https://github.com/RaRe-Technologies/gensim-data for a list of models and do
 Histwords github repository found here: https://github.com/williamleif/histwords 
 All English (1800s-1990s) pretrained models found here: https://nlp.stanford.edu/projects/histwords/.
 
-We present our code in three jupiter notebooks:
+We present our code in two jupiter notebooks:
 
 <h2>calculating_cosines_contempary_models.ipynb</h2>
 We calculate the cosine similarity between each entity word and each moral concern word using the contempary models.
