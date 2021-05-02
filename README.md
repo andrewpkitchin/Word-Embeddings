@@ -11,8 +11,8 @@ All English (1800s-1990s) pretrained models found here: https://nlp.stanford.edu
 
 We present our code in two jupiter notebooks:
 
-<h2>calculating_cosines_contempary_models.ipynb</h2>
-We calculate the cosine similarity between each entity word and each moral concern word using the contempary models.
+<h2>study_one_calculating_cosines_contempary_models.ipynb</h2>
+We calculate the cosine similarity between each entity word and each moral concern word using the contempary models. We utilize these cosines in "Study 1: Validity test".
 
-<h2>calculating_cosines_historic_models.ipynb</h2>
-We calculate the the cosine similarity between each entity word and each moral concern word using the historical models. To use this notebook you will need to clone the Histwords github repository found here: https://github.com/williamleif/histwords as well as download the All English (1800s-1990s) pretrained models found here: https://nlp.stanford.edu/projects/histwords/.
+<h2>study_two_calculating_cosines_historic_models.ipynb</h2>
+We calculate the the cosine similarity between each entity word and each moral concern word using the historical models. To use this notebook you will need to clone the Histwords github repository found here: https://github.com/williamleif/histwords as well as download the All English (1800s-1990s) pretrained models found here: https://nlp.stanford.edu/projects/histwords/. We utilize these cosines in "Study 2: Change over time".
